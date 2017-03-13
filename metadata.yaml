@@ -1,5 +1,8 @@
 _repo: Tartarin-of-Tarascon_1862
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: "Tartarin of Tarascon (French: Tartarin de Tarascon) is an 1872 novel\
   \ written by the French author Alphonse Daudet.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1862#Tartarin-of-Tarascon
 gutenberg_issued: '1999-08-01'
 gutenberg_type: Text
 identifiers:
